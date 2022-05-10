@@ -22,3 +22,5 @@ Grâce à la data science il est possible de créer des clusters (regroupement) 
 “Kmeans” est un algorithme de clustering qui permet d’identifier les patterns d’individus que l’on va regrouper selon des similarités. (Parfait pour segmenter)
 L'objectif de ce projet était de développer un modèle de clustering qui sera utilisé pour la segmentation des clients d'un Centre commercial, Mall, épicéries , etc...
 Le jeu de données utilisé est public.
+
+Dans ce projet, j'ai utilisé un jeu de données depuis Kaggle : **"Mall_Customers_dataset"**. Cet ensemble de données est créé uniquement dans le but d'apprendre les concepts de segmentation de la clientèle, également connus sous le nom d'analyse du panier de consommation. Je vais le démontrer en utilisant la technique ML non supervisée (KMeans Clustering Algorithm) sous la forme la plus simple.
